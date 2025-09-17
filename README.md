@@ -1,7 +1,7 @@
 ## Meu nome é Isabella
  tenho 14 anos,sou aluna do [FavelaWare](https://favelaware.animahub.com.br/home)
 estou terminando o ensino fundamental (9º) na escola estadual jose mesquita de carvalho,aprendo algumas linguas estrangeiras como Espanhol Inglês.
-estou gostando bastante de mecher nessa nova area da compuntação,porque sei que no futuro vou precisar disso na area de trabalho.Predendo me aprofundar em mais areas diferentes de trabalho para que eu não fique somente em uma area e que me desenvolva cada vez mas minhas habilidades no futuro..
+estou gostando bastante de mecher nessa nova area da compuntação,porque sei que no futuro vou precisar disso na area de trabalho.Predendo me aprofundar em mais areas diferentes de trabalho para que eu não fique somente em uma area e que me desenvolva cada vez mas minhas habilidades no futuro.
 ---
 ## linguagens de programação
 <img
